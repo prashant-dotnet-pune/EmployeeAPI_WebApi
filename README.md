@@ -17,7 +17,7 @@ It provides complete **CRUD operations** for managing Employee records and also 
 ---
 
 ### 🔗 Output Screenshot PDF Drive Link
-https://drive.google.com/file/d/18vY0eas6HFitUfdodh781BmrDFwv4qrz/view?usp=sharing
+[https://drive.google.com/file/d/18vY0eas6HFitUfdodh781BmrDFwv4qrz/view?usp=sharing](https://drive.google.com/file/d/1uPCDukU-DyqrnfnRMLvp1UPlWWIFqyxD/view?usp=sharing)
 ### 🔗 Client Application Repository
 The console application that consumes this API is hosted separately:  
 👉 [EmployeeAPI-ClientApp (GitHub)](https://github.com/prashant-dotnet-pune/EmployeeAPI-ClientApp)
